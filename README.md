@@ -27,6 +27,10 @@ A list of Web Audio API resources: Books, Articles, Libraries, Projects etc...
 
 - [Web Audio Weekly](http://www.webaudioweekly.com/)
 
+## Related lists
+
+- [awesome-webaudio](https://github.com/notthetup/awesome-webaudio)
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
 
 
 Feel free to add and PR :)
