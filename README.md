@@ -22,6 +22,7 @@ A list of Web Audio API resources: Books, Articles, Libraries, Projects etc...
 ## Software
 
 ## Websites, Demos, Projects etc...
+- [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 
 ## Newsletters
 
